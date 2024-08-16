@@ -428,6 +428,17 @@ h3.nama-folder {
     background-size: cover;
 }
 
+/* PT. Kartika Sari Inti Sejati */
+.enam-exF img {
+    width: 130px;
+    height: 120px;
+    float: right;
+    border: 5px solid white;
+    border-radius: 50%;
+    background-image: url(img/PT_KIS.jpg);
+    background-size: cover;
+}
+
 
 /* Skill */
 .empat-skF {
